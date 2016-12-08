@@ -3033,3 +3033,5 @@
 	}
 
 	a {text-decoration:none;}
+	a {border: none;}
+	a {box-shadow: none;}
